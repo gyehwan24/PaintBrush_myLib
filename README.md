@@ -1,2 +1,2 @@
 # PaintBrush_myLib
-made my swing library
+use my swing library (K-)
